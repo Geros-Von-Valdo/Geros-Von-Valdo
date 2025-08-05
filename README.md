@@ -29,8 +29,8 @@
 
 Você pode falar comigo por aqui:
 
-- 📧 **Email:** gabkngg@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-novotni-7759a6214)
+- 📧 **Email:** gabkngg@gmail.com
 - 💬 **WhatsApp:** [+55 (11) 98765-4321](https://wa.me/5542999426137)
 
 ---
