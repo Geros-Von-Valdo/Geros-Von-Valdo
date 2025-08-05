@@ -23,14 +23,6 @@
 
 </div>
 
-### ⭐ GitHub Stats
-
-<div align="center">
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&layout=compact&theme=dark)
-
-</div>
-
 ---
 
 ## 📬 Contato · Contact
@@ -40,6 +32,16 @@ Você pode falar comigo por aqui:
 - 📧 **Email:** gabkngg@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-novotni-7759a6214)
 - 🌐 [Portfólio](https://seu-portfolio.com)
+
+---
+
+### ⭐ GitHub Stats
+
+<div align="center">
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&layout=compact&theme=dark)
+
+</div>
 
 ---
 
