@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">Gabriel Novotni</h1>
+<p align="center">Desenvolvedor Full Stack • Engenheiro de Software em formação</p>
 
-<!--
-**Geros-Von-Valdo/Geros-Von-Valdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🇧🇷 **Olá! Me chamo Gabriel e sou um desenvolvedor focado em soluções práticas, inteligentes e escaláveis. Atualmente estou cursando Engenharia de Software e trabalho em projetos que envolvem desde sistemas administrativos em Laravel até processamento de imagens com Python.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🇺🇸 **Hi! I'm Gabriel, a developer focused on building practical, intelligent, and scalable solutions. I'm currently studying Software Engineering and working on projects ranging from Laravel-based admin systems to image processing with Python.**
+
+---
+
+## 🧰 Tecnologias que utilizo · Technologies I use
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F7323F?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## 🧠 Áreas de interesse · Interests
+
+- Sistemas administrativos com validação automatizada
+- Processamento de imagens com inteligência artificial
+- Aplicações web modernas e responsivas
+- Otimização de fluxos de trabalho para administradores e usuários
+- Integração de dados e automação
+
+---
+
+## 💼 Projetos em destaque · Featured projects
+
+| Projeto | Descrição |
+|--------|-----------|
+| [**Questionário Validador**](https://github.com/Geros-Von-Valdo/Questionario-Validador) | Sistema para validar respostas de usuários do transporte público, com filtros, envio de e-mail e organização administrativa. |
+| [**Gerenciamento de Transporte Escolar**](https://github.com/Geros-Von-Valdo/Gerenciamento-Transporte-Escolar) | Sistema completo para cadastro, agendamento e controle de horários escolares. |
+| [**YOLO Frame Extractor**](https://github.com/Geros-Von-Valdo/YOLO-Video-Frame-Extractor) | Processamento de vídeo com YOLO para extrair quadros da lousa sem o professor visível. |
+
+---
+
+## 📬 Contato · Contact
+
+Você pode falar comigo por aqui:
+
+- 📧 **Email:** gabriel.novotni@email.com *(exemplo)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/) *(adicione o real)*
+- 🌐 [Portfólio (opcional)](https://seu-portfolio.com)
+
+---
+
+### ⭐ GitHub Stats
+
+<div align="center">
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geros-Von-Valdo&show_icons=true&theme=default&hide=stars&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&layout=compact&theme=default)
+
+</div>
