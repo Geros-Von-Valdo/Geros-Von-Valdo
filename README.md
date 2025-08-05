@@ -23,34 +23,13 @@
 
 </div>
 
----
-
 ### ⭐ GitHub Stats
 
 <div align="center">
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geros-Von-Valdo&show_icons=true&theme=default&hide=stars&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&layout=compact&theme=default)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&layout=compact&theme=dark)
 
 </div>
-
-## 🧠 Áreas de interesse · Interests
-
-- Sistemas administrativos com validação automatizada
-- Processamento de imagens com inteligência artificial
-- Aplicações web modernas e responsivas
-- Otimização de fluxos de trabalho para administradores e usuários
-- Integração de dados e automação
-
----
-
-## 💼 Projetos em destaque · Featured projects
-
-| Projeto | Descrição |
-|--------|-----------|
-| [**Questionário Validador**](https://github.com/Geros-Von-Valdo/Questionario-Validador) | Sistema para validar respostas de usuários do transporte público, com filtros, envio de e-mail e organização administrativa. |
-| [**Gerenciamento de Transporte Escolar**](https://github.com/Geros-Von-Valdo/Gerenciamento-Transporte-Escolar) | Sistema completo para cadastro, agendamento e controle de horários escolares. |
-| [**YOLO Frame Extractor**](https://github.com/Geros-Von-Valdo/YOLO-Video-Frame-Extractor) | Processamento de vídeo com YOLO para extrair quadros da lousa sem o professor visível. |
 
 ---
 
