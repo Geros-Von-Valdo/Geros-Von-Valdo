@@ -25,6 +25,15 @@
 
 ---
 
+### ⭐ GitHub Stats
+
+<div align="center">
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geros-Von-Valdo&show_icons=true&theme=default&hide=stars&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&layout=compact&theme=default)
+
+</div>
+
 ## 🧠 Áreas de interesse · Interests
 
 - Sistemas administrativos com validação automatizada
@@ -49,17 +58,10 @@
 
 Você pode falar comigo por aqui:
 
-- 📧 **Email:** gabriel.novotni@email.com *(exemplo)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario/) *(adicione o real)*
-- 🌐 [Portfólio (opcional)](https://seu-portfolio.com)
+- 📧 **Email:** gabkngg@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-novotni-7759a6214)
+- 🌐 [Portfólio](https://seu-portfolio.com)
 
 ---
 
-### ⭐ GitHub Stats
 
-<div align="center">
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Geros-Von-Valdo&show_icons=true&theme=default&hide=stars&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&layout=compact&theme=default)
-
-</div>
