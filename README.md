@@ -1,4 +1,4 @@
-<h1 align="center">Gabriel Novotni</h1>
+<h1 align="center">Gabriel K. Novotni</h1>
 <p align="center">Desenvolvedor Full Stack • Engenheiro de Software em formação</p>
 
 ---
