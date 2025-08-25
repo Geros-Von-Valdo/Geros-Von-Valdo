@@ -37,7 +37,7 @@ Você pode falar comigo por aqui:
 
 ### ⭐ GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&exclude_repo=repo1,repo2&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&hide=html,blade&layout=compact&theme=dark)
 
 <div align="center">
 
