@@ -3,13 +3,10 @@
 
 ---
 
-🇧🇷 **Olá! Me chamo Gabriel e sou um desenvolvedor focado em soluções práticas, inteligentes e escaláveis. Atualmente estou cursando Engenharia de Software e trabalho em projetos que envolvem desde sistemas administrativos em Laravel até processamento de imagens com Python.**
-
-🇺🇸 **Hi! I'm Gabriel, a developer focused on building practical, intelligent, and scalable solutions. I'm currently studying Software Engineering and working on projects ranging from Laravel-based admin systems to image processing with Python.**
 
 ---
 
-## 🧰 Tecnologias que utilizo · Technologies I use
+## Tecnologias que utilizo · Technologies I use
 
 <div align="center">
 
@@ -25,17 +22,17 @@
 
 ---
 
-## 📬 Contato · Contact
+##  Contato · Contact
 
 Você pode falar comigo por aqui:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-novotni-7759a6214)
-- 📧 **Email:** gabkngg@gmail.com
-- 💬 **WhatsApp:** [+55 (42) 99942-6137](https://wa.me/5542999426137)
+-  [LinkedIn](https://www.linkedin.com/in/gabriel-novotni-7759a6214)
+-  **Email:** gabkngg@gmail.com
+-  **WhatsApp:** [+55 (42) 99942-6137](https://wa.me/5542999426137)
 
 ---
 
-### ⭐ GitHub Stats
+###  GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geros-Von-Valdo&exclude_repo=repo1,repo2&layout=compact&theme=dark)
 
