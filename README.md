@@ -26,6 +26,12 @@
 
 Você pode falar comigo por aqui:
 
+-  **Email:** [Gabriel Novotni](https://www.linkedin.com/in/gabriel-novotni-7759a6214)
+
+-  **Email:** [gabkngg@gmail.com](mailto:gabkngg@gmail.com) |
+
+-  **WhatsApp:** [+55 (42) 99942-6137](https://wa.me/5542999426137) 
+
 | Canal | Link |
 | :--- | :--- |
 | <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" height="20"> | [gabriel-novotni](https://www.linkedin.com/in/gabriel-novotni-7759a6214) |
