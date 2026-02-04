@@ -28,7 +28,7 @@ Você pode entra em contato por estes canais:
 
 | Canal | Link |
 | :--- | :--- |
-| <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" height="30"> | [gabriel-novotni](https://www.linkedin.com/in/gabriel-novotni-7759a6214) |
+| <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" height="30"> | [Gabriel Novotni](https://www.linkedin.com/in/gabriel-novotni-7759a6214) |
 | <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="30"> | [gabkngg@gmail.com](mailto:gabkngg@gmail.com) |
 | <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" height="30"> | [(42) 99942-6137](https://wa.me/5542999426137) |
 
