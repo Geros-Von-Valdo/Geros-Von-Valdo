@@ -26,7 +26,7 @@
 
 Você pode falar comigo por aqui:
 
--  [LinkedIn](https://www.linkedin.com/in/gabriel-novotni-7759a6214)
+-  LinkedIn: [Gabriel Novotni](https://www.linkedin.com/in/gabriel-novotni-7759a6214)
 -  **Email:** gabkngg@gmail.com
 -  **WhatsApp:** [+55 (42) 99942-6137](https://wa.me/5542999426137)
 
