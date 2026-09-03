@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineer;Full Stack Developer;Deep+Learning+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Deep+Learning+Researcher" alt="Typing SVG" />
   </a>
 </div>
 
@@ -35,14 +35,6 @@
   <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
----
-
-## / / STATUS
-
-<div align="center">
-  
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Geros-Von-Valdo&layout=compact&hide_border=true&bg_color=0d1117&title_color=800020&text_color=ffffff" alt="Top Langs" width="100%" />
-</div>
 
 ---
 
